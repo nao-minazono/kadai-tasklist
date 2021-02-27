@@ -1,0 +1,35 @@
+[33mcommit 13c7503883142da3116f5f8ce686cbfe769f08a2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: nao.minami <apple.3789.3789.3789@gmail.com>
+Date:   Sat Feb 27 07:52:12 2021 +0000
+
+    CRUD task
+
+[33mcommit c1340563b4098a371c0ee022f373e2482bde79f1[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: nao.minami <apple.3789.3789.3789@gmail.com>
+Date:   Fri Feb 26 07:43:48 2021 +0000
+
+    CRUD tasks
+
+[33mcommit bc76e025fd0b463b80476bab6d9d3acee8ea24a6[m
+Author: nao.minami <apple.3789.3789.3789@gmail.com>
+Date:   Fri Feb 26 07:18:21 2021 +0000
+
+    CRUD task
+
+[33mcommit e73b1c2af529fa1897f066ef4f50f65937e0d234[m
+Author: nao.minami <apple.3789.3789.3789@gmail.com>
+Date:   Fri Feb 26 05:15:21 2021 +0000
+
+    task model
+
+[33mcommit 8eb2cc673e3e2d1a72f8f8202a1bfb2724f301a6[m
+Author: nao.minami <apple.3789.3789.3789@gmail.com>
+Date:   Thu Feb 25 14:15:16 2021 +0000
+
+    create database
+
+[33mcommit 312fbbf38aa9fcd3c7ff246943b41644e6fae60b[m
+Author: nao.minami <apple.3789.3789.3789@gmail.com>
+Date:   Thu Feb 25 13:47:06 2021 +0000
+
+    init Rails Project
